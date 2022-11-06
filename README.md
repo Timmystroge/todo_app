@@ -1,2 +1,1 @@
-# todo_app
-# TimmyStroge
+Simple Ui todo application (no backend)
